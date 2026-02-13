@@ -1,4 +1,4 @@
 # Въведение в математическата оптимизация
 
-[https://febse.github.io/opt2024](https://febse.github.io/opt2024)
+[https://lagadova.github.io/quantitative-methods-notebooks/](https://lagadova.github.io/quantitative-methods-notebooks/)
 
