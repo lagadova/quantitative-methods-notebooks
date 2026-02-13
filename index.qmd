@@ -14,7 +14,7 @@
 
 ## Git
 
-I don't git it
+Got something else now
 
 ``` plaintext
 {{< var github >}}
