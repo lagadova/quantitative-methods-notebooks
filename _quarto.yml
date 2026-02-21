@@ -13,19 +13,19 @@ book:
   
   chapters:
     - index.qmd
-    - Literature.qmd
+    #- Literature.qmd
     # - part: 01-Python/index.qmd
     - 02-Introduction/index.ipynb
-    - 03-Graphical-Method/01-Blending.ipynb
-    - 03-Graphical-Method/02-Sensitivity.ipynb
+    #- 03-Graphical-Method/01-Blending.ipynb
+    #- 03-Graphical-Method/02-Sensitivity.ipynb
 #    - 04-Simplex/01-Canonical-Representation.ipynb
-    - 04-Simplex/01-Simplex-Method.ipynb
-    - 04-Simplex/02-Simplex-Method-3D.ipynb
-    - 04-Simplex/03-Simplex-Method-Edge.ipynb
-    - 04-Duals.qmd
-    - 05-Sensitivity.qmd
-    - 06-Transportation.ipynb
-    - 00-Assignments/assignments.ipynb
+    #- 04-Simplex/01-Simplex-Method.ipynb
+    #- 04-Simplex/02-Simplex-Method-3D.ipynb
+    #- 04-Simplex/03-Simplex-Method-Edge.ipynb
+    #- 04-Duals.qmd
+    #- 05-Sensitivity.qmd
+    #- 06-Transportation.ipynb
+    #- 00-Assignments/assignments.ipynb
     # - 00-Assignments/covid-facilities.ipynb
       # chapters:
       #   - 01-Python/01-01-Basics.ipynb
