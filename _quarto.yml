@@ -22,8 +22,9 @@ book:
     # - 04-Simplex/01-Canonical-Representation.ipynb
     - 04-Simplex/01-Simplex-Method copy.ipynb
     - 04-Simplex/01-Simplex-Method.ipynb
-    #- 04-Simplex/02-Simplex-Method-3D.ipynb
-    #- 04-Simplex/03-Simplex-Method-Edge.ipynb
+    - 02-Introduction copy/index.ipynb
+    # - 04-Simplex/02-Simplex-Method-3D.ipynb #CL
+    # - 04-Simplex/03-Simplex-Method-Edge.ipynb #CL
     #- 04-Duals.qmd
     #- 05-Sensitivity.qmd
     #- 06-Transportation.ipynb
