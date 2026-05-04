@@ -12,7 +12,7 @@ book:
   date: last-modified
   
   chapters:
-    - SimplexLL.qmd
+    - index.qmd
     #- Literature.qmd
     # - part: 01-Python/index.qmd
     - 02-Introduction/index.ipynb
@@ -22,7 +22,7 @@ book:
     # - 04-Simplex/01-Canonical-Representation.ipynb
     - 04-Simplex/01-Simplex-Method copy.ipynb
     - 04-Simplex/01-Simplex-Method.ipynb
-    - 02-Introduction copy/index.ipynb
+    - 02-Introduction copy/SimplexLL.ipynb
     # - 04-Simplex/02-Simplex-Method-3D.ipynb #CL
     # - 04-Simplex/03-Simplex-Method-Edge.ipynb #CL
     - 04-Duals.qmd
