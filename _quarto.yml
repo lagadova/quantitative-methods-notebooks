@@ -12,7 +12,7 @@ book:
   date: last-modified
   
   chapters:
-    - index.qmd
+    - SimplexLL.qmd
     #- Literature.qmd
     # - part: 01-Python/index.qmd
     - 02-Introduction/index.ipynb
